@@ -1,0 +1,14 @@
+streamlit
+openai>=1.0.0
+python-docx
+PyPDF2
+pillow
+pytesseract
+llama-parse
+llama-index-core
+scikit-learn
+numpy
+python-dotenv
+pydantic
+psycopg2-binary
+requests
