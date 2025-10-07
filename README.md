@@ -10,6 +10,10 @@ An end-to-end Intelligent Document Processing (IDP) app that ingests mixed claim
 4. Risk & Fraud Detection
 5. Adjuster Support
 
+### Architecture
+
+<img width="433" height="682" alt="image" src="https://github.com/user-attachments/assets/00078fb6-9a52-4195-88dc-bb6f4113714e" />
+
 
 ### Tech Stack
 
@@ -36,5 +40,6 @@ Optional (enable features):
 
 1. OpenAI API key - https://platform.openai.com/api-keys
 2. Llama Cloud (LlamaParse) API key - https://cloud.llamaindex.ai/
+
 
 To run the app : "streamlit run main.py"
